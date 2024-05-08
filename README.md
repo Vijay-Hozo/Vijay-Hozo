@@ -17,8 +17,8 @@
 
 ## CONNECT WITH ME 
 
-<a> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a> ![LinkedIn](https://www.linkedin.com/in/mr-vijay/)</a>
+![Instagram](https://www.instagram.com/mr_vijay_._/)
 
 
 ## TECH STACK 
