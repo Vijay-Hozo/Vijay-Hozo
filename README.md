@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Task-manager](https://github.com/Vijay-Hozo/Task-Manager.git)
+- 🔭 I’m currently working on [Visual Vibe](https://github.com/Vijay-Hozo/Visual_Vibe.git)
 
 - 🌱 I’m currently learning **MERN Stack**
 
