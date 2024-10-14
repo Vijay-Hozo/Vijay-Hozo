@@ -15,11 +15,6 @@
 
 - 📫 How to reach me **personal@avijay.tech**
 
-## CONNECT WITH ME 
-
-<a> ![LinkedIn](https://www.linkedin.com/in/mr-vijay/)</a>
-![Instagram](https://www.instagram.com/mr_vijay_._/)
-
 
 ## TECH STACK 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
