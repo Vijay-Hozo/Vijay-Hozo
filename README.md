@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [avijay.me](https://avijay.me/)
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **Web development, Hackathon, Projects**
 
 - 📫 How to reach me **personal@avijay.tech**
 
