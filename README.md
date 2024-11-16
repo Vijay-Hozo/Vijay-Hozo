@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
-<h3 align="center">A passionate frontend developer from Coimbatore</h3>
+<h3 align="center">A passionate **FULLSTACK DEVELOPER** from Coimbatore</h3>
 
 <img align = "right" height = "300" weight = "400" src = "https://imgs.search.brave.com/QH6a7hxHYyMjJpqsJwvB1eTlTgL_lTS4-ZKRmy9qbPA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMS8w/OC8wNC8xMy8wNi9z/b2Z0d2FyZS1kZXZl/bG9wZXItNjUyMTcy/MF82NDAuanBn" >
 
