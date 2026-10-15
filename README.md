@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
 <h3 align="center">A passionate FULLSTACK DEVELOPER</h3>
 
-<img align = "right" height = "300" weight = "400" src = "https://imgs.search.brave.com/QH6a7hxHYyMjJpqsJwvB1eTlTgL_lTS4-ZKRmy9qbPA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMS8w/OC8wNC8xMy8wNi9z/b2Z0d2FyZS1kZXZl/bG9wZXItNjUyMTcy/MF82NDAuanBn" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-hozo&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-hozo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently at Propzing as a Full Stack Developer 
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [avijay.me](https://avijay.me/)
+- 👨‍💻 All of my projects are available at [avijay.vercel.app](https://avijay.vercel.app/)
 
 - 💬 Ask me about **Web development, Hackathon, Projects**
 
@@ -34,7 +32,5 @@
 ## LEETCODE
  ![LeetCode Stats](https://leetcard.jacoblin.cool/a_vijay?theme=dark&font=Poly)
 
-## GITHUB
-  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijay-Hozo&bg_color=000000&color=fffaff&line=0e3503&point=ffffff&area=true&hide_border=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-hozo&" alt="vijay-hozo" /></p>
